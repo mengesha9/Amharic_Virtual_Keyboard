@@ -1,1 +1,1 @@
-# Amharik_Virtual_Keyboard
+# Amharic_Virtual_Keyboard
